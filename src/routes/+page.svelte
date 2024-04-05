@@ -1,6 +1,4 @@
 <script lang="ts">
-	import { IcLAddWarranty } from "ui-kit/icons";
-
 
 </script>
 
@@ -8,4 +6,5 @@
 	<h1>Example</h1>
 </div>
 
-<IcLAddWarranty />
+<!-- here u can ask for complitions and it will be slow -->
+<IcS

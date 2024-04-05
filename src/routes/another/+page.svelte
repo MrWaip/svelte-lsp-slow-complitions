@@ -1,5 +1,4 @@
 <script lang="ts">
-	import { IcLAnonymousFilled } from "ui-kit/icons";
 
 </script>
 
@@ -7,4 +6,6 @@
 	<h1>Another</h1>
 </div>
 
-<IcLAnonymousFilled />
+
+<!-- here u can ask for complitions and it will be slow -->
+<IcS
